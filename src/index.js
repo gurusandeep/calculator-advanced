@@ -1,3 +1,7 @@
+/**
+ * @author Sandeep Singh & Md Adil
+ */
+
 const output = document.getElementById("output");
 let isOn = false;
 function handleClick(e) {
